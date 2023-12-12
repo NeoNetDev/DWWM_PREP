@@ -1,0 +1,11 @@
+@import url(./reset.css);
+
+:root {
+  --color-1: #f18b6d;
+  --color-2: #f1d204;
+  --color-3: #6a4d8a;
+  --color__facebook: #3b5998;
+  --color__twitter: #1da1f2;
+  --color__instagram: #e1306c;
+  --color__linkedin: #0077b5;
+}
